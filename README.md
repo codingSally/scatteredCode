@@ -1,2 +1,2 @@
 # scatteredCode
-一些零散的代码
+API使用case
